@@ -13,9 +13,12 @@ st.dataframe(df)
 df.head()
 
 st.button("Rerun")
-
+# Bar chart of gender(sex) against Passenger class
 st.bar_chart(data=df, x = 'Sex' , y= 'Pclass')
 
+# Pie chart of Survival status according to Gender 
 fig = px.pie(df , values= 'Survived', names='Sex', title="Survival according to Gender")
 
 st.plotly_chart(fig)
+
+st.scatter_chart(data=df, x = 'Age' , y = 'Fare' , title = 'Scatter Plot of Age against Fare')

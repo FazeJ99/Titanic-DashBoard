@@ -9,7 +9,7 @@ PassengerId,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked,Survived
 8,3,"Palsson, Master. Gosta Leonard",male,2,3,1,349909,21.075,,S,0
 9,3,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",female,27,0,2,347742,11.1333,,S,1
 10,2,"Nasser, Mrs. Nicholas (Adele Achem)",female,14,1,0,237736,30.0708,,C,1
-11,3,"Sandstrom, Miss. Marguerite Rut",female,4,1,1,PP 9549,16.7,G6,S,1
+11,3,"Sandstrom, Miss. Marguerite Rut",female,4,1,1,PP 9549,16.7,G6,S,1     zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
 12,1,"Bonnell, Miss. Elizabeth",female,58,0,0,113783,26.55,C103,S,1
 13,3,"Saundercock, Mr. William Henry",male,20,0,0,A/5. 2151,8.05,,S,0
 14,3,"Andersson, Mr. Anders Johan",male,39,1,5,347082,31.275,,S,0
